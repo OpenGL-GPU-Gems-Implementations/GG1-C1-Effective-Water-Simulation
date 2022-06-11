@@ -7,6 +7,9 @@ From [GPU Gems book 1, part 1, chapter 1.](https://developer.nvidia.com/gpugems/
 * Gerstner waves
 * Edge-length filtering
 
+## Visuals
+![water anim](https://user-images.githubusercontent.com/42471346/173206974-f3ade3ae-2949-46ce-887c-9e9e5c5afa35.gif)
+
 ## Concepts Reimagined
 * TBD
 
