@@ -1,0 +1,6 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/eron/Documents/GitHub/GG1-C1-Effective-Water-Simulation'
+make.exe: 'EWS.exe' is up to date.
+ 
+make.exe: Leaving directory 'c:/Users/eron/Documents/GitHub/GG1-C1-Effective-Water-Simulation'
+ 
