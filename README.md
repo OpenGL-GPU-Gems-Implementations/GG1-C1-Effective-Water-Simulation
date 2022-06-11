@@ -31,7 +31,8 @@ Libraries required for default program compilation and installed under dependenc
   * SDL Image
 
 ### Instructions
-* All dependencies are stored within the repository. Once MinGW is installed, make sure you add ~\MinGW\bin to the PATH environment variable using these [instructions](http://www.mingw.org/wiki/Getting_Started/). Make can be called, and the executable ./EWS.exe ran with no additional parameters.
+* All dependencies except Assimp are stored within the repository. Once MinGW is installed, make sure you add ~\MinGW\bin to the PATH environment variable using these [instructions](http://www.mingw.org/wiki/Getting_Started/). You can compile Assimp following the instructions indicated on their [GitHub page](https://github.com/assimp/assimp/blob/master/Build.md), using the polly toolchain. Make sure compilation produces static libraries rather than shared. Make sure to compile Assimp using 32 bit MinGW. 
+* Once setup, make can be called, and the executable ./EWS.exe ran with no additional parameters.
   * Note that you may have to adjust the name of the MinGW make executable. The executable may exist as mingw32-make, but can be renamed to make as necessary. However, you may or may not want to follow through with this action depending on the compilers that you have installed previously.
 
 ## License
